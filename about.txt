@@ -1,0 +1,5 @@
+My name is Tia Smith. I am a software developer focusing on full stack development using HTML, CSS, JS, Bootstrap, jQuery, C# & SQL Server.
+
+I am currently enrolled as a student at Tech Elevator learning C# .NET development techniques. Over the course of 14-weeks we are learning: OOP principles, File.IO, Test Driven Development, Database Design, Netorks, MVC, Security & SQL Injection coupled with capstone projects.
+
+When I'm not writing code, I enjoy doing escape room games, trampoline dodgeball, traveling, visiting museums or attending local meetups.
